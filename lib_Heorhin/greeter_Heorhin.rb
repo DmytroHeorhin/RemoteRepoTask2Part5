@@ -3,6 +3,4 @@ class Greeter
     @who = who
   end
   def greet
-    "Hello, #{@who}. Some chenges. Some other changes. Conflictable x=2."
-  end  
-end  
+    "Hello, #{@who}. Some chenges. Some other changes. Conflictable x=2."  endend  
